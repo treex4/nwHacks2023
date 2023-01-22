@@ -1,4 +1,6 @@
-# nwHacks2023
+# nwHacks 2023
+
+Presenting... Yudo! Our approach to innovating exercise with technology.
 
 Guys when u clone this do the following:
 1. ```npm i``` in the server and client folders to install dependencies
